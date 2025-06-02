@@ -10,4 +10,6 @@ All problems are taken from deep-ml.com
 |[Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15)|15-linear-regression-gradient-descent|Machine Learning|Easy|
 |[Sigmoid Activation Function Understanding](https://www.deep-ml.com/problems/22)|22-sigmoid-activation-function|Deep Learning|Easy|
 |[Softmax Activation Function Understanding](https://www.deep-ml.com/problems/23)|23-softmax-activation-function|Deep Learning|Easy|
+|[Single Neuron](https://www.deep-ml.com/problems/29)|29-single-neuron|Deep Learning|Easy|
 |[Implement Self-Attention Mechanism](https://www.deep-ml.com/problems/53)|53-self-attention-mechanism|Deep Learning|Medium|
+|[KL Divergence Between Two Normal Distributions](https://www.deep-ml.com/problems/56)|56-kl-divergence-two-normal-distributions|Deep Learning|Easy|
