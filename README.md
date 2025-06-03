@@ -8,6 +8,7 @@ All problems are taken from deep-ml.com
 |[Transpose of a Matrix](https://www.deep-ml.com/problems/2)|02-transpose-of-matrix|Linear Algebra|Easy|
 |[Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14)|14-linear-regression-using-normal-equation|Machine Learning|Easy|
 |[Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15)|15-linear-regression-gradient-descent|Machine Learning|Easy|
+|[Feature Scaling Implementation](https://www.deep-ml.com/problems/16)|16-feature-scaling-implementation|Machine Learning|Easy|
 |[Sigmoid Activation Function Understanding](https://www.deep-ml.com/problems/22)|22-sigmoid-activation-function|Deep Learning|Easy|
 |[Softmax Activation Function Understanding](https://www.deep-ml.com/problems/23)|23-softmax-activation-function|Deep Learning|Easy|
 |[Single Neuron](https://www.deep-ml.com/problems/29)|29-single-neuron|Deep Learning|Easy|
