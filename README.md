@@ -11,8 +11,8 @@ All problems are taken from deep-ml.com
 |[Feature Scaling Implementation](https://www.deep-ml.com/problems/16)|16-feature-scaling-implementation|Machine Learning|Easy|
 |[Sigmoid Activation Function Understanding](https://www.deep-ml.com/problems/22)|22-sigmoid-activation-function|Deep Learning|Easy|
 |[Softmax Activation Function Understanding](https://www.deep-ml.com/problems/23)|23-softmax-activation-function|Deep Learning|Easy|
+|[Single Neuron](https://www.deep-ml.com/problems/24)|24-single-neuron|Deep Learning|Easy|
 |[Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25)|25-single-neuron-with-backpropagation|Deep Learning|Medium|
-|[Single Neuron](https://www.deep-ml.com/problems/29)|29-single-neuron|Deep Learning|Easy|
 |[Simple Convolutional 2D Layer](https://www.deep-ml.com/problems/41)|41-simple-convolutional-2d-layer|Deep Learning|Medium|
 |[Implement Self-Attention Mechanism](https://www.deep-ml.com/problems/53)|53-self-attention-mechanism|Deep Learning|Medium|
 |[KL Divergence Between Two Normal Distributions](https://www.deep-ml.com/problems/56)|56-kl-divergence-two-normal-distributions|Deep Learning|Easy|
