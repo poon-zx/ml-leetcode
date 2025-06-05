@@ -14,3 +14,4 @@ All problems are taken from deep-ml.com
 |[Single Neuron](https://www.deep-ml.com/problems/29)|29-single-neuron|Deep Learning|Easy|
 |[Implement Self-Attention Mechanism](https://www.deep-ml.com/problems/53)|53-self-attention-mechanism|Deep Learning|Medium|
 |[KL Divergence Between Two Normal Distributions](https://www.deep-ml.com/problems/56)|56-kl-divergence-two-normal-distributions|Deep Learning|Easy|
+|[Implement a Simple Residual Block with Shortcut Connection](https://www.deep-ml.com/problems/113)|113-residual-block-shortcut|Deep Learning|Easy|
