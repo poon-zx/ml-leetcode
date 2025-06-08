@@ -14,6 +14,9 @@ All problems are taken from deep-ml.com
 |[Single Neuron](https://www.deep-ml.com/problems/24)|24-single-neuron|Deep Learning|Easy|
 |[Single Neuron with Backpropagation](https://www.deep-ml.com/problems/25)|25-single-neuron-with-backpropagation|Deep Learning|Medium|
 |[Simple Convolutional 2D Layer](https://www.deep-ml.com/problems/41)|41-simple-convolutional-2d-layer|Deep Learning|Medium|
+|[Implement Adam Optimization Algorithm](https://www.deep-ml.com/problems/49)|49-adam-optimizer|Deep Learning|Medium|
 |[Implement Self-Attention Mechanism](https://www.deep-ml.com/problems/53)|53-self-attention-mechanism|Deep Learning|Medium|
+|[Implementing a Simple RNN](https://www.deep-ml.com/problems/41)|54-simple-rnn|Deep Learning|Medium|
 |[KL Divergence Between Two Normal Distributions](https://www.deep-ml.com/problems/56)|56-kl-divergence-two-normal-distributions|Deep Learning|Easy|
+|[Implement Multi-head Attention](https://www.deep-ml.com/problems/94)|94-multi-headed-attention|Deep Learning|Hard|
 |[Implement a Simple Residual Block with Shortcut Connection](https://www.deep-ml.com/problems/113)|113-residual-block-shortcut|Deep Learning|Easy|
